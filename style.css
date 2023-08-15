@@ -84,12 +84,11 @@ div.img2{
 	margin-left: 250px;
 		color: white;
 	font-size: 25px;
-
-	
 }
 
 div.img1{
 	border: solid 3px white;
+	margin: 50px;
 	width: 500px;
 	height: 500px;
 	margin-right: 250px;
