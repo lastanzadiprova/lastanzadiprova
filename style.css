@@ -64,7 +64,7 @@ div.intro{
 }
 
 
-div.book{
+.book{
 	width: 1000px;
  border: solid 3px white;
 text-align: justify;
@@ -75,7 +75,7 @@ padding: 30px;
 
   
 
-div.img2{
+.img2{
 	border: solid 3px white;
 	margin: 50px;
 	width: 500px;
@@ -86,7 +86,7 @@ div.img2{
 	font-size: 25px;
 }
 
-div.img1{
+.img1{
 	border: solid 3px white;
 	margin: 50px;
 	width: 500px;
