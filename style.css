@@ -17,6 +17,8 @@ a{
 a:hover {
 color: #FF1493;
 }
+
+
 body{
  background-color: pink;
  posiiton: fixed;
@@ -47,6 +49,8 @@ body{
     transform: translate(-50%, -50%);
 	padding-top: 20px;
 	min-width: 400px;
+		padding: 20px;
+
 	}
 
 #schermo{
@@ -70,6 +74,8 @@ border: solid 3px white;
 text-align: justify;
 margin: 30px auto;
 padding: 30px;
+font-size: 25px;
+padding: 100px;
 }
 
 
@@ -98,4 +104,12 @@ padding: 30px;
 
 }
 
-
+.img3{
+		text-align:center;
+		margin:auto;
+		width: 80%;
+		border: solid 3px white;
+	height: 500px;
+	color: white;
+	font-size: 25px;
+}
