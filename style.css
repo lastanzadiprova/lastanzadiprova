@@ -105,11 +105,31 @@ padding: 100px;
 }
 
 .img3{
-		text-align:center;
-		margin:auto;
-		width: 80%;
+			text-align:center;
+			margin: 50px;
+		margin-left: 80px;
+		margin-right: 80px;
 		border: solid 3px white;
-	height: 500px;
-	color: white;
-	font-size: 25px;
+		height: 820px;
+		width: 1380px;
+		color: white;
+		font-size: 25px;
 }
+
+.img4{
+			text-align:center;
+			margin: 50px;
+		margin-left: 80px;
+		margin-right: 80px;
+		border: solid 3px white;
+		height: 1200px;
+		width: 1400px;
+		color: white;
+		font-size: 25px;
+		
+}
+
+.galleryfig{
+	color: white;
+	
+	}
