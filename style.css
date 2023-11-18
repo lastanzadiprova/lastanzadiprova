@@ -131,5 +131,46 @@ padding: 100px;
 
 .galleryfig{
 	color: white;
-	
 	}
+
+.img5{	
+		text-align:center;
+		margin: 50px;
+		margin-left: 80px;
+		padding-top: 100px;
+		margin-right: 80px;
+		border: solid 3px white;
+		height: 1000px;
+		width: 1400px;
+		color: white;
+		font-size: 25px;
+		
+}
+
+.img6{	
+		text-align:center;
+		margin: 50px;
+		padding-top: 100px;
+		margin-left: 80px;
+		margin-right: 80px;
+		border: solid 3px white;
+		height: 1000px;
+		width: 1400px;
+		color: white;
+		font-size: 25px;
+		
+}
+
+.img7{	
+		text-align:center;
+		margin: 50px;
+		padding-top: 100px;
+		margin-left: 80px;
+		margin-right: 80px;
+		border: solid 3px white;
+		height: 1000px;
+		width: 1400px;
+		color: white;
+		font-size: 25px;
+		
+}
